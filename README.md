@@ -1,3 +1,2 @@
 # sugarpot
-the first rpository
-this is my first test_rpository
+It's just a little gadget  
